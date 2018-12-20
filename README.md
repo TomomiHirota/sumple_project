@@ -1,1 +1,1 @@
-# sumple_project
+# sample_project
